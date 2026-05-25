@@ -12,3 +12,9 @@ This repo contains an Identity & Access Management (IAM) Joiner/Mover/Leaver (JM
 - Microsoft Graph integration
 - Entra ID user provisioning and access management
 - Governance/reporting dashboard
+
+
+
+
+
+<img width="1427" height="875" alt="Screenshot 2026-05-25 at 3 16 34 PM" src="https://github.com/user-attachments/assets/d8e7e043-ed7f-40a1-bad8-22731af29429" />
