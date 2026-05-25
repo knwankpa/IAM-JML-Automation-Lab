@@ -1,0 +1,5 @@
+EmployeeID,FirstName,LastName,Department,JobTitle,Manager,Status,Action
+1001,Jason,Reed,Finance,Financial Analyst,Angela Smith,Active,Joiner
+1002,Maya,Collins,IT,Support Analyst,David Brown,Active,Joiner
+1003,Brandon,Lee,HR,HR Coordinator,Angela Smith,Active,Mover
+1004,Nia,Johnson,Clinical,EHR Analyst,Patricia Davis,Terminated,Leaver
